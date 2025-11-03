@@ -31,6 +31,10 @@ Supports:
 ## 🖼️ Demo Video
 🎥 
 
+
+https://github.com/user-attachments/assets/13156ad3-c9fc-4126-8709-8cf4037e89bc
+
+
 ## ▶️ Run
 ```bash
 flutter run -d chrome
